@@ -23,10 +23,10 @@ I have experience building web and mobile applications and enjoy trying out new 
 ### ⚙️ &nbsp;GitHub Stats
 <p align="center">
   <a href="https://github.com/Nilyz">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Nilyz&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Nilyz&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_border=true"/>
   </a>
   <a href="https://github.com/Nilyz">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nilyz&layout=compact&langs_count=8&theme=onedark"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nilyz&layout=compact&langs_count=8&theme=onedark&hide_border=true"/>
   </a>
 </p>
 
