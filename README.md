@@ -38,7 +38,7 @@ I have experience building web and mobile applications and enjoy trying out new 
 
 
 ### 🚀 &nbsp;Most Recent Projects
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Nilyz&repo=llm-pdf-assistant&theme=onedark&hide_border=true)](https://github.com/Nilyz/mi-repo)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Nilyz&repo=llm-pdf-assistant&theme=onedark&hide_border=true)](https://github.com/Nilyz/llm-pdf-assistant)
 
 <br><br>
 
