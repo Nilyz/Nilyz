@@ -14,7 +14,7 @@ I have experience building web and mobile applications and enjoy trying out new 
 <!-- Tech Stack-->
 ### 👨🏻‍💻 &nbsp;Tech Stack
 
-<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,angular,bootstrap,php,figma,nodejs,express,java,spring,py,kotlin,androidstudio,mysql,firebase,python,git,github,vscode,eclipse,notion,postman,godot" /></a></p>
+<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,bootstrap,php,figma,nodejs,express,java,spring,py,kotlin,androidstudio,mysql,firebase,git,github,vscode,eclipse,notion,postman,godot" /></a></p>
 
 
 <br><br>
