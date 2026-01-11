@@ -23,22 +23,24 @@ I have experience building web and mobile applications and enjoy trying out new 
 ### ⚙️ &nbsp;GitHub Stats
 <p align="center">
   <a href="https://github.com/Nilyz">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Nilyz&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Nilyz&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_border=true&bg_color=16191d"/>
   </a>
   <a href="https://github.com/Nilyz">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nilyz&layout=compact&langs_count=8&theme=onedark&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nilyz&layout=compact&langs_count=8&theme=onedark&hide_border=true&bg_color=16191d"/>
   </a>
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Nilyz&theme=onedark&hide_border=true"/>
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Nilyz&theme=onedark&hide_border=true&background=16191d" alt="GitHub Streak" />
+  </a>
 </p>
 
 <br><br>
 
 
 ### 🚀 &nbsp;Most Recent Projects
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Nilyz&repo=llm-pdf-assistant&theme=onedark&hide_border=true)](https://github.com/Nilyz/llm-pdf-assistant)
+[![ReadMe Card](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Nilyz&repo=llm-pdf-assistant&theme=onedark&hide_border=true&bg_color=16191d)](https://github.com/Nilyz/llm-pdf-assistant)
 
 <br><br>
 
