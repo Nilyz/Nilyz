@@ -40,7 +40,20 @@ I have experience building web and mobile applications and enjoy trying out new 
 
 
 ### 🚀 &nbsp;Most Recent Projects
-[![ReadMe Card](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Nilyz&repo=llm-pdf-assistant&theme=onedark&hide_border=true&bg_color=16191d)](https://github.com/Nilyz/llm-pdf-assistant)
+
+<p align="center">
+  <a href="https://github.com/Nilyz/llm-pdf-assistant">
+    <img width="32%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Nilyz&repo=llm-pdf-assistant&theme=onedark&hide_border=true&bg_color=16191d" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Nilyz/bitcoin-price-predictor">
+    <img width="32%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Nilyz&repo=bitcoin-price-predictor&theme=onedark&hide_border=true&bg_color=16191d" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Nilyz/clause-watch-ia">
+    <img width="32%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Nilyz&repo=clause-watch-ia&theme=onedark&hide_border=true&bg_color=16191d" />
+  </a>
+</p>
 
 <br><br>
 
