@@ -64,7 +64,6 @@ I have experience building web and mobile applications and enjoy trying out new 
   <a href="https://linkedin.com/in/yilinzzhou"><img alt="Linkedin" title="Yilin Zhou Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/Nilyz"><img alt="Github" title="Yilin Zhou Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="mailto:yilin.zh135@gmail.com"><img alt="Gmail" title="Yilin Zhou Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://instagram.com/y1_l1n"><img alt="Instagram" title="Yilin Zhou Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
  </p>
 
 
